@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  min-height: 100vh;
+  margin: 0 auto;
+
+  h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 150px;
+    border-radius: 20px;
+    background-color: #e1e1e1;
+    box-shadow: 10px 5px 5px #a1a1a1;
+  }
+}

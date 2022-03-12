@@ -1,0 +1,9 @@
+#IDE
+.idea
+
+#LOCAL-FILE
+build
+package-lock.json
+
+#NPM
+node_modules
